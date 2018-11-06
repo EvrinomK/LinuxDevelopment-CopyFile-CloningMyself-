@@ -1,0 +1,1 @@
+bool copyFile(const char* source, const char* copy);
